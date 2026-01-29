@@ -75,7 +75,7 @@ This SQL project provides a strong foundation in healthcare data analytics. By q
 - [GitHub](https://github.com/Swarnaprava3)
 
 ## 📸 Project Preview
-![ER Diagram](./ER-diagram.png)
+![ER Diagram]](https://github.com/Swarnaprava3/Medical-Data-History-SQL-Project/blob/main/Entity%20Relationship%20Diagram.png)
 
 ---
 
